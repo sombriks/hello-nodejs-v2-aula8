@@ -172,7 +172,7 @@ function Tela2Controller(){
 }
 
 module.exports = {
-  controller:Tela1Controller,
+  controller:Tela2Controller,
   templateUrl:"tela2.html",
   controllerAs:"ctl"
 };
